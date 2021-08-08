@@ -1,6 +1,6 @@
 import "./work.scss"
 
-export default function work() {
+export default function Work() {
     return (
         <div className="work" id="work">
             
