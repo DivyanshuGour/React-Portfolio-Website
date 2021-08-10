@@ -50,5 +50,20 @@
         color: $mainColor;
       }
     }
+    a {
+      position: absolute;
+      bottom: 30px;
+      margin-left: 20%;
+
+      h1 {
+        animation: arrowBlink 2s infinite;
+      }
+
+      @keyframes arrowBlink {
+        100% {
+          opacity: 0;
+        }
+      }
+    }
   }
 }
