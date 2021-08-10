@@ -15,7 +15,7 @@ export default function Intro() {
                   <h3>Freelance<span></span></h3>
               </div>
               <a href="#portfolio">
-                  Down
+                  <h1>Down</h1>
               </a>
               </div>  
         </div>
