@@ -48,6 +48,12 @@
       h3 {
         font-size: 30px;
         color: $mainColor;
+
+        span{
+          font-size: inherit;
+          color: inherit;
+        }
+
       }
     }
     a {
@@ -67,5 +73,3 @@
     }
   }
 }
-
-// kjgjhg,jh
